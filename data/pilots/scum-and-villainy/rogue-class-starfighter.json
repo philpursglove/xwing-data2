@@ -54,6 +54,14 @@
   "pilots": [
     {
       "name": "Cad Bane",
+      "caption": "Armed and Dangerous",
+      "initiative": 4,
+      "limited": 1,
+      "ability": "After you perform an attack that hits, you may spend 2 [Charge] to transfer 1 of your non-lock red or orange tokens to the defender.",
+      "standardloadout":["flechettecannons", "todo360", "xanadublood"]
+    },
+    {
+      "name": "Cad Bane",
       "caption": "Infamous Bounty Hunter",
       "initiative": 4,
       "limited": 1,
