@@ -38,6 +38,15 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_CustomizedYT-1300.png",
   "pilots": [
     {
+      "name": "Han Solo",
+      "caption": "Armed and Dangerous",
+      "initiative": 6,
+      "limited": 1,
+      "ability": "While you defend or perform a primary attack, if the attack is obstructed by an obstacle, you may roll 1 additional die.",
+      "standardloadout": ["Chewbacca", "Tobias Beckett", "L3-37", "Lando's Millennium Falcon"]
+    },
+
+    {
       "name": "Freighter Captain",
       "initiative": 1,
       "limited": 0,
