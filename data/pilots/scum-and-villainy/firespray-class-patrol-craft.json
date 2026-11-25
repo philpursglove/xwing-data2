@@ -44,7 +44,7 @@
       "initiative": 5,
       "limited": 1,
       "ability": "After another friendly ship defends, if you have a lock on the attacker, you may perform a bonus attack against the attacker",
-      "standardloadout": "homing beacon, fennec shand, seismic charges, slave 1"
+      "standardloadout": ["homing-beacon", "fennec-shand", "seismic-charges", "slave-1"]
     },
     {
       "name": "Boba Fett",

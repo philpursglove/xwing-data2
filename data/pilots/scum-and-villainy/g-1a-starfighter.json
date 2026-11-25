@@ -42,7 +42,7 @@
       "initiative": 3,
       "limited": 1,
       "ability":"While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
-      "standardloadout": ["Persistent Tracker", "Tractor Beam", "4-LOM", "Mist Hunter"]
+      "standardloadout": ["persistent-tracker", "tractor-beam", "4-lom", "mist-hunter"]
     },
     {
       "name": "4-LOM",

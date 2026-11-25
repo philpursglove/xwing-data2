@@ -49,7 +49,7 @@
       "caption": "Armed and Dangerous",
       "initiative": 6,
       "ability": "While you defend or perform an attack, if the attack range is 1, you may roll 1 additional die.",
-      "standardloadout": ["fearless", "adaptable power systems", "beskar reinforced plating"]
+      "standardloadout": ["fearless", "adaptable-power-systems", "beskar-reinforced-plating"]
     },
     {
       "name": "Fenn Rau",

@@ -36,7 +36,7 @@
   "pilots": [
     {
       "name": "Bo-Katan Kryze",
-      "caption": "Armed and Dangerous"
+      "caption": "Armed and Dangerous",
       "ability":"",
       "initiative": 4,
       "limited": 1,
@@ -44,7 +44,7 @@
         "name": "Winged Reversal",
         "text": ""
       },
-      "standardloadout": ["mandalorian tactics", "nite owl sentries", "veteran tail gunner"]
+      "standardloadout": ["mandalorian-tactics", "nite-owl-sentries", "veteran-tail-gunner"]
     },
     {
       "xws": "maul",
