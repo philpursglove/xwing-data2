@@ -37,6 +37,14 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_MistHunter.png",
   "pilots": [
     {
+      "name": "Zuckuss",
+      "caption": "Armed and Dangerous",
+      "initiative": 3,
+      "limited": 1,
+      "ability":"While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
+      "standardloadout": ["Persistent Tracker", "Tractor Beam", "4-LOM", "Mist Hunter"]
+    },
+    {
       "name": "4-LOM",
       "caption": "Reprogrammed Protocol Droid",
       "initiative": 3,
