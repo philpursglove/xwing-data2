@@ -35,6 +35,18 @@
   ],
   "pilots": [
     {
+      "name": "Bo-Katan Kryze",
+      "caption": "Armed and Dangerous"
+      "ability":"",
+      "initiative": 4,
+      "limited": 1,
+      "shipability":{
+        "name": "Winged Reversal",
+        "text": ""
+      },
+      "standardloadout": ["mandalorian tactics", "nite owl sentries", "veteran tail gunner"]
+    },
+    {
       "xws": "maul",
       "name": "Maul",
       "image": "https://infinitearenas.com/xw2/images/pilots/maul.png",
