@@ -44,6 +44,14 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Jumpmaster.png",
   "pilots": [
     {
+      "name": "Dengar",
+      "caption": "Armed and Dangerous",
+      "initiative": 6,
+      "limited": 1,
+      "ability":"After you defend, if the attacker is in your [Front Arc], you may spend 1 [Charge] to perform a bonus attack against the attacker.",
+      "standardloadout": ["r2g8", "synchronizedhandling", "starboardthrusters", "punishingone"]
+    },
+    {
       "name": "Contracted Scout",
       "initiative": 2,
       "limited": 0,
