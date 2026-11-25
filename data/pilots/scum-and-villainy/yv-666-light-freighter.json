@@ -35,6 +35,14 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_YV-666.png",
   "pilots": [
     {
+      "name": "Bossk" ,
+      "caption": "Armed and Dangerous",
+      "initiative": 4,
+      "limited": 1,
+      "ability": "While you perform a primary attack, after the Neutralize Results step, you may spend 1 [Critical Hit] result to add 2 [Hit] results.",
+      "standardloadout": ["embo", "contrabandcybernetics", "houndstooth"]
+    },
+    {
       "name": "Bossk",
       "caption": "Fearsome Hunter",
       "initiative": 4,
